@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" fill="none">
+  <defs>
+    <linearGradient id="bg" x1="70" y1="30" x2="1110" y2="630" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0D2137"/>
+      <stop offset="1" stop-color="#06101E"/>
+    </linearGradient>
+  </defs>
+  <path fill="url(#bg)" d="M0 0h1200v630H0z"/>
+  <g stroke="#9BB1C8" stroke-opacity=".16">
+    <path d="M818 0v238M930 0v176M1042 0v119M1154 0v62M760 58h440M700 118h500M640 178h560"/>
+    <path d="m1012 0-412 412M1130 0 718 412M1200 52 840 412"/>
+  </g>
+  <path d="m87 78 33 61H54l33-61Z" stroke="#F6F8FC" stroke-width="3" stroke-linejoin="round"/>
+  <path d="M72 118h30M78 105h18" stroke="#F6F8FC" stroke-width="2.5"/>
+  <text x="148" y="111" fill="#F6F8FC" font-family="Arial,sans-serif" font-size="31" font-weight="700" letter-spacing="4">ELEVATE LABS</text>
+  <text x="148" y="142" fill="#C4CFDC" font-family="Arial,sans-serif" font-size="17">Elevating Businesses Through Technology</text>
+  <text x="67" y="267" fill="#F6F8FC" font-family="Arial,sans-serif" font-size="64" font-weight="700">Professional websites</text>
+  <text x="67" y="345" fill="#F6F8FC" font-family="Arial,sans-serif" font-size="64" font-weight="700">built around your goals.</text>
+  <text x="70" y="410" fill="#C4CFDC" font-family="Arial,sans-serif" font-size="23">Websites · Web apps · Digital solutions</text>
+  <path d="M70 492h346" stroke="#8EA4BC" stroke-opacity=".5"/>
+  <text x="70" y="538" fill="#F6F8FC" font-family="Arial,sans-serif" font-size="19">Student developer · Zambia</text>
+  <g transform="translate(760 292)" stroke="#D7E0E9" stroke-opacity=".72">
+    <rect width="320" height="208" rx="8" fill="#F7F6F2" fill-opacity=".04"/>
+    <path d="M0 34h320M19 17h6m7 0h6m7 0h6"/>
+    <path d="M38 81h129M38 101h101M38 121h114M38 151h66" stroke-width="2"/>
+    <path d="m211 58 76 132h-152l76-132Z"/>
+    <path d="M183 151h57m-49-27h41m-31-28h21"/>
+    <path d="M-24 208h368l-34 25H12l-36-25Z" fill="#13243A"/>
+  </g>
+</svg>
